@@ -19,7 +19,7 @@ The graph instances used in the experiment can be found in the Dataset folder.
 
 To compile the code use :
 ```
-g++ -O3 -static-libstdc++ approximatePercolationCentrality.cpp
+g++ -O3 -static-libstdc++ approximatePercolationCentrality.cpp -o approximatePC
 ```
 
 To run the CPU codes use :
